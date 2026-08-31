@@ -1,4 +1,4 @@
-package com.CodingSeries20to40Days;
+package com.CodingSeries21to40Days;
 import java.util.Scanner;
 public class ShoppingCashbackCalculator {
     public static void main(String[] args) {
